@@ -1,0 +1,6 @@
+C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DemoLibrary\obj\Debug\DemoLibrary.pdb
