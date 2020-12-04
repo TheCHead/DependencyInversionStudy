@@ -8,3 +8,13 @@ C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DependencyInversi
 C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.csproj.CopyComplete
 C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.exe
 C:\Users\Nikita Dmitriev\source\repos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.pdb
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\bin\Debug\DependencyInversionStudy.exe.config
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\bin\Debug\DependencyInversionStudy.exe
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\bin\Debug\DependencyInversionStudy.pdb
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\bin\Debug\DemoLibrary.dll
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\bin\Debug\DemoLibrary.pdb
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.csprojAssemblyReference.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.csproj.CopyComplete
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.exe
+C:\Users\Nikita Dmitriev\CSharpStudy\Demos\DependencyInversionStudy\DependencyInversionStudy\obj\Debug\DependencyInversionStudy.pdb

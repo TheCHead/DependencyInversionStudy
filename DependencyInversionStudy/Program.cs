@@ -11,19 +11,19 @@ namespace DependencyInversionStudy
     {
         static void Main(string[] args)
         {
-            Person owner = new Person
-            {
-                FirstName = "Cloud",
-                LastName = "Strife",
-                EmailAddress = "cstrife@shinra.com",
-                PhoneNumber = "666-5555"
-            };
+            IPerson owner = Factory.CreatePerson();
 
-            Chore chore = new Chore
-            {
-                ChoreName = "Get ultima weapon",
-                Owner = owner
-            };
+            owner.FirstName = "Cloud";
+            owner.LastName = "Strife";
+            owner.EmailAddress = "cstrife@shinra.com";
+            owner.PhoneNumber = "666-5555";
+
+
+            IChore chore = Factory.CreateChore();
+
+            chore.ChoreName = "Get ultima weapon";
+            chore.Owner = owner;
+            
 
             chore.PerformedWork(3);
             chore.PerformedWork(1.5);
